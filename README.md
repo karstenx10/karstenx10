@@ -1,4 +1,4 @@
-15<br>VS Code and Premiere Pro ❤️
+15<br>VS Code and Premiere Pro ❤️<br>biggest flex is that i got 80 gb of ram for no reason 😼
 
 
 ## what i use
