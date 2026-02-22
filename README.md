@@ -3,12 +3,11 @@
 OS and Setup Specs:
 - Windows 11
 - Ubunutu
-- 2 acer monitors
-- hyperx keyboard
-- DT 990 PRO X
-- Logitech G mouse
-- 2tb ssd
-- 80gb ram
+- acer monitors
+- keyboard
+- Logitech mouse
+- samsung ssd
+- corsair ram (i think)
 - and more :D
 
 <img src="premierepro.png" width="50" height="50"> <img src="photoshop.png" width="50" height="50"> <img src="python.png" width="50" height="50"> 
